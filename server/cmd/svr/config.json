@@ -1,0 +1,15 @@
+{
+  "Env": "Prod",
+  "Port": "",
+  "ClientConfig": {
+    "Name": "CLIENT",
+    "Url": "<prod client url>",
+    "IndexPath": "index.html",
+    "StaticPath": "/web"
+
+  },
+  "ServerConfig": {
+    "Name": "SERVER",
+    "Url": "<prod server url>"
+  }
+}

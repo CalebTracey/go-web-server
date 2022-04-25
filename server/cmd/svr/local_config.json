@@ -1,0 +1,14 @@
+{
+  "Env": "Local",
+  "Port": "6088",
+  "ClientConfig": {
+    "Name": "CLIENT",
+    "Url": "http://localhost:6088",
+    "IndexPath": "index.html",
+    "StaticPath": "/web"
+  },
+  "ServerConfig": {
+    "Name": "SERVER",
+    "Url": "http://localhost:6080"
+  }
+}
